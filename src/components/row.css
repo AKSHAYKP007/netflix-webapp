@@ -1,0 +1,7 @@
+.posters{
+    display: flex;
+    overflow-y: hidden;
+    overflow-x: scroll;
+}
+.posters::-webkit-scrollbar {
+    display: none;}
